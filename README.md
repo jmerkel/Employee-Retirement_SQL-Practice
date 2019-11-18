@@ -6,24 +6,21 @@ In the upcoming year, there will be a large number of employees retiring. In ord
 
 ### Include ERD
 The ERD below shows the relevant tables in the SQL schema. More tables are included in the database, but in this
-[ERD of relavent tables](Visuals/schemaChallenge.png)
+[ERD of relevant tables](Visuals/schemaChallenge.png)
 
-### \# of Individuals retiring (33,118)
+### \# of Individuals retiring
 There are 33,118 people retiring this upcoming year.
 
-### /# of individuals available for mentorship role --> 1549
+### \# of individuals available for mentorship role
 There are currently 1549 people who are potential mentorship candidates. These people are current employees born in 1965.
 
 
-### /# of Individuals being hired
+### \# of Individuals being/to be hired
 The amount of people hired has been steadily decreasing, from 14,835 people in 1994 to 1514 in 1999. Using this trend, it would be appropriate to hire approx. 550 people for the upcoming year. However, a loss of senior experience of the magnitude seen, may require an extensive effort to replace the retiring talent. Further investigation and collaboration with each department is necessary to determine if the loss of talent is necessary to be replaced, or if increased productivity year over year determines if that level of personnel is necessary anymore.
 
 
 ## Code & Output
-'''
---GENERAL INFO
-The Emp_Info table contains information on retiring current employee information (Emp No, First Name, Last Name, Gender, Salary)
-'''
+NOTE: The Emp_Info table contains information on retiring current employee information (Employee Number, First Name, Last Name, Gender, Salary). This table was generated in the lesson.
 
 ### 1 - Number of titles Retiring
 [Section1 Code & result](Visuals/Section1.png)
