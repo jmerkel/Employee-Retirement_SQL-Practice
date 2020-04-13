@@ -1,5 +1,5 @@
-# jmerkel_Module_7
-SQL
+# Employee Retirement Planning - SQL Practice
+### UC Berkeley - jmerkel_Module_7
 
 ## Summary
 In the upcoming year, there will be a large number of employees retiring. In order to prepare for this situation, the following script outlines some SQL analysis to determine who is retiring, the job titles of the retirees, the count of each job title, and who may be seen as a potential mentor.
